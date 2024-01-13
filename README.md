@@ -1,6 +1,25 @@
 # 💫 About Me:
-<br>🔭 As a MERN developer, I am proficient in building web applications using MongoDB, Express.js, React, and Node.js. Currently, I am working on a full-stack project that involves creating an e-commerce website using the MERN stack.<br><br>👯 I am always looking to collaborate with other developers to enhance my skills and learn new techniques. I am open to working on projects that involve web development, software engineering, and cloud computing.<br><br>🤝 I am always looking for help with improving my knowledge and skills in software development, particularly in the areas of security, scalability, and performance optimization.<br><br>
+Project Planning ✨ Wireframing ✨ Designs ✨Coding + Quality Control ✨Delivery
+🔖 14k+ Hours on Upwork
+🔖 TOP RATED PLUS
+🔖 10+ Years of Experience
 
+To begin with, just a brief about me. I am enthusiastic techies with good experience working in the IT industry. I have good experience in design as well as development. I have proficient enough with UX/UI design, Web development, Mobile Development.
+
+**Fantasy Cricket app development Expert**
+
+**Why me?**
+★ I offer a Reasonable Price.
+★ I propose a Guaranteed Result.
+★ I emphasize customer delight.
+★ My aim is to provide professional services to my clients and prove my abilities and target for long-term work relationships with all my potential clients.
+
+What I provide is a very personalized, tailor-made approach that ensures that you are getting exactly what you want. Once you're associated with me you will witness your project turning into an innovative reality.
+
+🤝 I believe in long term relationships with every client and my primary focus will be long term projects. 
+🤝 I am looking forward to helping my clients turn their dreams into reality.
+
+**☎ Please invite me if you loved it**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-globalitapp/) [![Upwork](https://img.shields.io/badge/Upwork-12100E?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/manishsharma6) 
