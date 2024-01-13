@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Project Planning** <br> ✨ Wireframing ✨ Designs ✨ Coding + Quality Control ✨ Delivery<br>
-🔖 14k+ Hours on Upwork<br>
+🔖 15k+ Hours on Upwork<br>
 🔖 TOP RATED PLUS<br>
 🔖 10+ Years of Experience<br>
 
