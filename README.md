@@ -6,13 +6,13 @@
 
 To begin with, just a brief about me. I am enthusiastic techies with good experience working in the IT industry. I have good experience in design as well as development. I have proficient enough with UX/UI design, Web development, Mobile Development.<br>
 
-**Fantasy Cricket app development Expert**<br>
+★★**Fantasy Cricket app development Expert**★★<br>
 
 **Why me?** <br>
 ★ I offer a Reasonable Price.<br>
 ★ I propose a Guaranteed Result.<br>
 ★ I emphasize customer delight.<br>
-★ My aim is to provide professional services to my clients and prove my abilities and target for long-term work relationships with all my potential clients.<br><br>
+★ My aim is to provide professional services to my clients and prove my abilities and target for long-term work relationships with all my potential clients.<br>
 
 What I provide is a very personalized, tailor-made approach that ensures that you are getting exactly what you want. Once you're associated with me you will witness your project turning into an innovative reality.<br>
 
