@@ -77,3 +77,7 @@ What I provide is a very personalized, tailor-made approach that ensures that yo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ✍️ Your Custom Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&animation=default&vAlign=center&font=default&lang=default&lineHeight=1.5&borderRadius=5&opacity=0.5&seed=12345&text=One of the most professional people I have ever seen)
+
