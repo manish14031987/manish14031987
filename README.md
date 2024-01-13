@@ -1,7 +1,7 @@
 # 💫 About Me:
-Project Planning ✨ Wireframing ✨ Designs ✨Coding + Quality Control ✨Delivery<br><br>
-🔖 14k+ Hours on Upwork<br><br>
-🔖 TOP RATED PLUS<br><br>
+Project Planning ✨ Wireframing ✨ Designs ✨Coding + Quality Control ✨Delivery<br>
+🔖 14k+ Hours on Upwork<br>
+🔖 TOP RATED PLUS<br>
 🔖 10+ Years of Experience<br><br>
 
 To begin with, just a brief about me. I am enthusiastic techies with good experience working in the IT industry. I have good experience in design as well as development. I have proficient enough with UX/UI design, Web development, Mobile Development.<br><br>
@@ -14,7 +14,7 @@ To begin with, just a brief about me. I am enthusiastic techies with good experi
 ★ I emphasize customer delight.<br>
 ★ My aim is to provide professional services to my clients and prove my abilities and target for long-term work relationships with all my potential clients.<br><br>
 
-What I provide is a very personalized, tailor-made approach that ensures that you are getting exactly what you want. Once you're associated with me you will witness your project turning into an innovative reality.<br><br>
+What I provide is a very personalized, tailor-made approach that ensures that you are getting exactly what you want. Once you're associated with me you will witness your project turning into an innovative reality.<br>
 
 🤝 I believe in long term relationships with every client and my primary focus will be long term projects. <br>
 🤝 I am looking forward to helping my clients turn their dreams into reality.<br><br>
