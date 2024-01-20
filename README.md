@@ -54,11 +54,8 @@ What I provide is a very personalized, tailor-made approach that ensures that yo
 
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 
@@ -77,6 +74,6 @@ What I provide is a very personalized, tailor-made approach that ensures that yo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✍️ Your Custom Quote
+### ✍️ Custom Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&animation=default&vAlign=center&font=default&lang=default&lineHeight=1.5&borderRadius=5&opacity=0.5&seed=12345&text=One%20of%20the%20most%20professional%20people%20I%20have%20ever%20seen)
 
